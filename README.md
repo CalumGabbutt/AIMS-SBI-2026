@@ -1,5 +1,6 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/CalumGabbutt/AIMS-SBI-2026/blob/main/AIMS_SBI_2026.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/CalumGabbutt/AIMS-SBI-2026/blob/main/AIMS_SBI_2026.ipynb
+)
 
 # Simulation based inference (SBI) project for AIMS 2026
 
